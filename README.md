@@ -1,4 +1,4 @@
-- This project is a C program that implements the Huffman coding algorithm.
+This project is a C program that implements the Huffman coding algorithm.
 
 Key Components:
 1. Data Structures: 
